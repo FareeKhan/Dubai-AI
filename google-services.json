@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "724659656080",
+    "project_id": "rasha-al-beick",
+    "storage_bucket": "rasha-al-beick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724659656080:android:c273e8332d75513fe6cf15",
+        "android_client_info": {
+          "package_name": "com.marvellabyrasha.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724659656080-2ke4d2u10hc7m9focpnfqq604r9aqgpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMxPmEvv_tD-xr76BaQiTdesUZ8iUlmpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724659656080-2ke4d2u10hc7m9focpnfqq604r9aqgpm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "724659656080-492j7oajin0el7t6gvujcm18ddfe07oo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Marvella.ShopifyApp",
+                "app_store_id": "1603561784"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

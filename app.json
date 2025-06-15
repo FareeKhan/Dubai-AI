@@ -1,0 +1,36 @@
+{
+  "expo": {
+    // "name": "Phone7M",
+    "name": "dubaiai",
+    "slug": "dubaiai",
+    "version": "2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      // "bundleIdentifier": "com.codingeagle.phone7m.ar"
+      "bundleIdentifier": "com.codingeagle.dubaiai"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.codingeagle.dubaiai"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+    }
+  }
+}
